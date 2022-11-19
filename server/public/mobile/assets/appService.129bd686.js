@@ -1,0 +1,1 @@
+import{l as e}from"./lodash.default.25203653.js";const t={store:{name:"美甲店",workTime:"周一至周日 10:00 - 20:00  ",telephone:"13312345678 ",serviceWeChat:"kf1223 ",address:"深圳市深南大道10000号 ",introduction:"服务介绍..."}},o={getAppInfo:function(o=""){return e.get(t,o,t)}};export{o as a};

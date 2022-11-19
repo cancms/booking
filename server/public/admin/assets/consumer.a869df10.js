@@ -1,0 +1,1 @@
+import{r as e}from"./index.9623039f.js";function s(r){return e.get({url:"/user.user/lists",params:r})}function u(r){return e.get({url:"/user.user/detail",params:r})}function i(r){return e.post({url:"/user.user/edit",params:r})}export{u as a,s as g,i as u};

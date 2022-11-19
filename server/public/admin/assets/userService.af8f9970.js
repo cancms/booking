@@ -1,0 +1,1 @@
+import{a as f}from"./index.9623039f.js";import{_ as n}from"./lodash.ded75160.js";const g=function(){const s={getUserInfo:o,getUserRoleInfo:t};function o(r=""){const e=f(),u=e.userInfo;return n.get(u,r,e.userInfo)}function t(r=""){const e=o("userRoleInfo");return n.get(e,r,e)}return s}();export{g as u};

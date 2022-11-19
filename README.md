@@ -37,9 +37,15 @@ PV预约系统
 
   系统展示：
 
+  排班放号设置
+
 ![排班放号设置](https://gitee.com/tt2030/booking/raw/doc_branch/images/demo/haoYuan.png)
 
+前端预约界面
+
 ![前端预约界面](https://gitee.com/tt2030/booking/raw/doc_branch/images/demo/qianDuanYuYue.png)
+
+预约订单列表
 
 ![预约订单列表](https://gitee.com/tt2030/booking/raw/doc_branch/images/demo/yuYueDingDan.png)
 

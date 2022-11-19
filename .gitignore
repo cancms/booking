@@ -16,3 +16,13 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+/.idea
+/.vscode
+*.log
+/.env
+/public/uploads/*
+!/public/uploads/index.html
+/runtime/*
+!/runtime/index.html
+/config/install.lock
+/app/adminapi/http/middleware/CheckDemoMiddleware.php

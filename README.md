@@ -35,6 +35,15 @@ PV预约系统
   3. 预约订单列表， 后端管理入口查看已经预约的订单
 ~~~
 
+  系统展示：
+
+![排班放号设置](https://gitee.com/tt2030/booking/raw/doc_branch/images/demo/haoYuan.png)
+
+![前端预约界面](https://gitee.com/tt2030/booking/raw/doc_branch/images/demo/qianDuanYuYue.png)
+
+![预约订单列表](https://gitee.com/tt2030/booking/raw/doc_branch/images/demo/yuYueDingDan.png)
+
+
 ## 技术架构
 > 运行环境要求 php >=8.0, MYSQL >= 5.7
 

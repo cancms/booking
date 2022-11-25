@@ -95,3 +95,5 @@ All rights reserved
 
 2. 联系作者 
 > 邮箱： 2194679547@qq.com， QQ: 2194679547
+
+3. 更多文档请查看 [PV预约系统 说明文档](https://cancms.github.io/booking/user-manual/guide/index.html)

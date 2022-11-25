@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as l}from"./app.04560c22.js";const A=JSON.parse('{"title":"\u540E\u7AEF\u96C6\u6210","description":"","frontmatter":{},"headers":[],"relativePath":"guide/backend-integration.md"}'),o={name:"guide/backend-integration.md"},p=l("",3),t=[p];function e(c,D,r,F,y,i){return a(),n("div",null,t)}var u=s(o,[["render",e]]);export{A as __pageData,u as default};
